@@ -40,3 +40,7 @@ Thumbs.db
 #################
 .idea/*
 cmake-build-debug/*
+
+#chicago data#
+##############
+.csv
