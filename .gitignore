@@ -43,4 +43,4 @@ cmake-build-debug/*
 
 #chicago data#
 ##############
-.csv
+*.csv
